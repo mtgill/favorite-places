@@ -1,0 +1,53 @@
+{
+	"places": [{
+			"id": "city1",
+			"cityName": "San Francisco",
+			"cityState": "California",
+			"cityImage": "https://cdn.vox-cdn.com/thumbor/nkA0OYFOejA96gXee5DQG9RZVFk=/0x0:1368x912/1200x800/filters:focal(575x347:793x565)/cdn.vox-cdn.com/uploads/chorus_image/image/55144679/Pius_Lee.0.jpg",
+			"favoriteRestaurant": "Pacific Cafe",
+			"favoriteBar": "Mikkeller",
+			"favoriteHotel": "Fairmont San Francisco",
+			"favoriteTouristAttraction": "The Golden Gate bridge"
+		},
+		{
+			"id": "city2",
+			"cityName": "Madison",
+			"cityState": "Wisconsin",
+			"cityImage": "https://www.incimages.com/uploaded_files/image/1940x900/getty_483517958_368760.jpg",
+			"favoriteRestaurant": "The Old Fashioned",
+			"favoriteBar": "Cask & Ale",
+			"favoriteHotel": "The Edgewater",
+			"favoriteTouristAttraction": "Union Terrace"
+		},
+		{
+			"id": "city3",
+			"cityName": "Chattanooga",
+			"cityState": "Tennessee",
+			"cityImage": "https://livability.com/sites/default/files/styles/470x246/public/ChattanoogaTN-BridgesAerialOfDowntown.jpg?itok=KZe_r39v",
+			"favoriteRestaurant": "Public House",
+			"favoriteBar": "Flying Squirrel",
+			"favoriteHotel": "The Dwell Hotel",
+			"favoriteTouristAttraction": "Aquarium"
+		},
+		{
+			"id": "city4",
+			"cityName": "Dallas",
+			"cityState": "Texas",
+			"cityImage": "https://xixerone.com/en/wp-content/uploads/sites/2/2017/09/Best-areas-to-stay-in-Dallas-Texas.jpg",
+			"favoriteRestaurant": "Uchi Dallas",
+			"favoriteBar": "Frankies Downtown",
+			"favoriteHotel": "Omni Dallas",
+			"favoriteTouristAttraction": "AT&T Stadium"
+		},
+		{
+			"id": "city5",
+			"cityName": "Seattle",
+			"cityState": "Washington",
+			"cityImage": "http://usa.um.dk/~/media/USA/Images/Other/Konsulbillede%20-%20Seattle.ashx",
+			"favoriteRestaurant": "Frisco Freeze",
+			"favoriteBar": "Unicorn",
+			"favoriteHotel": "Four Seasons",
+			"favoriteTouristAttraction": "Space Needle"
+		}
+	]
+}
