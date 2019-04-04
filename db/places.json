@@ -7,7 +7,8 @@
 			"favoriteRestaurant": "Pacific Cafe",
 			"favoriteBar": "Mikkeller",
 			"favoriteHotel": "Fairmont San Francisco",
-			"favoriteTouristAttraction": "The Golden Gate bridge"
+            "favoriteTouristAttraction": "The Golden Gate bridge",
+            "costOfLiving": "High"
 		},
 		{
 			"id": "city2",
@@ -17,7 +18,8 @@
 			"favoriteRestaurant": "The Old Fashioned",
 			"favoriteBar": "Cask & Ale",
 			"favoriteHotel": "The Edgewater",
-			"favoriteTouristAttraction": "Union Terrace"
+            "favoriteTouristAttraction": "Union Terrace",
+            "costOfLiving": "Medium"
 		},
 		{
 			"id": "city3",
@@ -27,7 +29,8 @@
 			"favoriteRestaurant": "Public House",
 			"favoriteBar": "Flying Squirrel",
 			"favoriteHotel": "The Dwell Hotel",
-			"favoriteTouristAttraction": "Aquarium"
+            "favoriteTouristAttraction": "Aquarium",
+            "costOfLiving": "Low"
 		},
 		{
 			"id": "city4",
@@ -37,7 +40,8 @@
 			"favoriteRestaurant": "Uchi Dallas",
 			"favoriteBar": "Frankies Downtown",
 			"favoriteHotel": "Omni Dallas",
-			"favoriteTouristAttraction": "AT&T Stadium"
+            "favoriteTouristAttraction": "AT&T Stadium",
+            "costOfLiving": "Medium"
 		},
 		{
 			"id": "city5",
@@ -47,7 +51,8 @@
 			"favoriteRestaurant": "Frisco Freeze",
 			"favoriteBar": "Unicorn",
 			"favoriteHotel": "Four Seasons",
-			"favoriteTouristAttraction": "Space Needle"
+            "favoriteTouristAttraction": "Space Needle",
+            "costOfLiving": "High"
 		}
 	]
 }

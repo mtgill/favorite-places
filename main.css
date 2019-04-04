@@ -1,3 +1,17 @@
 body {
     background-color: lightblue;
 }
+
+#button-div {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.place {
+    margin-bottom: 15px;
+}
+
+.title {
+    text-align: center;
+}
